@@ -1,0 +1,13 @@
+===============================
+IMPRESION CON IMPRESORA PREDETERMINADO
+===============================
+
+http://127.0.0.1:5000/print/D:/GHOST/hola.pdf
+
+
+
+======================================
+IMPRESION CON IMPRESORA DETERMINADO
+======================================
+
+http://127.0.0.1:5000/print/EPSON%20L310%20Series/D:/GHOST/imprimir.pdf
