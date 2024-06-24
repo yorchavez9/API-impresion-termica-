@@ -10,4 +10,8 @@ http://127.0.0.1:5000/print/D:/GHOST/hola.pdf
 IMPRESION CON IMPRESORA DETERMINADO
 ======================================
 
+Nombre de la impresora: EPSON-L310-Series
+
+la dirección del ticket o documento: http://localhost/sis_venta_pollo/vistas/ticket/ticket81.pdf
+
 http://127.0.0.1:5000/print/EPSON-L310-Series/http://localhost/sis_venta_pollo/vistas/ticket/ticket81.pdf
